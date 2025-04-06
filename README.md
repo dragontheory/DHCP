@@ -1,2 +1,2 @@
-# DHCP
-Demo
+# responsive
+Responsive, scalable, usable, accessible layout
